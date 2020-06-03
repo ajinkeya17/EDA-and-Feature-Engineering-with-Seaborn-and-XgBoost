@@ -1,2 +1,2 @@
 # EDA-and-Feature-Engineering-with-Seaborn-and-XgBoost
-End to End project on UCI's Breast Cancer Dataset covering all aspects to be done in EDA sequentially and various Features Engineering Techniques using XgBoost like Correlation Study,Chi Square Test,Recursive Feature Elimination and PCA
+Using UCI's Breast Cancer Dataset(data.csv) have done all steps expected to be done generally while performing EDA sequentially using Seaborn and provided all insights and explanations parallely.Have also shown 4 methods of optimal Feature Selection using XgBoost:Correlation study,Chi Squared Test,Recursive Feature Elimination using CV and PCA.All this inlcuded in EDA_FULL_GITHUB.ipynb notebook.
